@@ -2,6 +2,7 @@ name = "backend"
 compatibility_date = "2023-12-01"
 
 # [vars]
+DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiMjBjY2I5ZGItMzIyNS00NDdkLTllMWQtMjc0ZGVkZTI2OWZkIiwidGVuYW50X2lkIjoiOThhNmU0YmVlODJkNGUxOTlkNjJkN2NhYWRkNjQ5ZTFmNjYzMjQwM2M2NDQyZmI3Y2ZkZTNlYWViMDQ4OTRhZSIsImludGVybmFsX3NlY3JldCI6ImFmNTgxYWYyLWNlMzktNDM0MS1iODJlLWEzZjE3ZWRlYjJmNyJ9.rS3wYxgbjvXnIvalhHoSP3KF8CavGpAHHcDjC6aSYH4"
 # MY_VARIABLE = "production_value"
 
 # [[kv_namespaces]]
