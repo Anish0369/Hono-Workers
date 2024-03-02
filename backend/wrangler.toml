@@ -3,7 +3,13 @@ compatibility_date = "2023-12-01"
 
 # [vars]
 DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiOTI1ODllYzgtMWE5OC00YTQ5LTk0MDEtNjhlYzZkNmYxNzlhIiwidGVuYW50X2lkIjoiMGQ5YzJjOTczZjA0MjFmYzJmNWYzZTU2YzkyNjZlNmNhYmU1ZDM3MTM3Mzk0OTRhMDA1MmNkOGE5NTE1YzY0MSIsImludGVybmFsX3NlY3JldCI6IjJiNDBkMzI4LWI2MDktNGM4ZS1iM2QxLTJhYmUzZWM0ZjNiZSJ9.UGXZn9IaaKPtBNo_TWhO2J52SuhwREBJBQg5jvu8GnA"
+JWT_SECRET = "abcdef"
+
+
+
 # MY_VARIABLE = "production_value"
+
+
 
 # [[kv_namespaces]]
 # binding = "MY_KV_NAMESPACE"
